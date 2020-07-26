@@ -21,6 +21,7 @@ let handleChange = (e) => new Promise((resolve, reject) =>{
                 <h1>${value.name}</h1>
                 <small>${value.location}</small>
                 <small>${value.phone}</small>
+                <btn></btn>
             
             </div>
 
